@@ -1,0 +1,33 @@
+{
+  "baseUrl": "https://www.demoblaze.com/",
+  "apiUrl": "https://api.demoblaze.com/",
+  "signUpUrl": "signup",
+  "logInUrl": "login",
+  "cartItemsUrl": "viewcart",
+  "cartItemDetailsUrl": "view",
+  "testConfig": {
+  "defaultWaitTimeout": 20
+},
+  "testUserName": "test_user_#123",
+  "testUserPassword": "test_user_#123",
+  "authCookieKey": "tokenp_",
+  "signUpSuccess": "Sign up successful.",
+  "productAddedMessage": "Product added.",
+  "customerName": "Galina Murilo",
+  "customerCountry": "Ukraine",
+  "customerCity": "Kherson",
+  "customerCardNumber": "1234432112344321",
+  "customerCardExpirationMonth": "12",
+  "customerCardExpirationYear": "2024",
+  "testProductId": 3,
+  "testProductPrice": 650,
+  "itemsAddToCart": [
+    "Nexus 6",
+    "MacBook Pro"
+  ],
+  "catalogItems": [
+    "Phones",
+    "Laptops",
+    "Monitors"
+  ]
+}
